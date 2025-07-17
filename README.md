@@ -5,7 +5,7 @@
 </p>
 
 # 💫 About Me:
-🔭 I’m currently working on :  A full-stack web app and a machine learning project — exploring real-world applications of user interaction and data insights.<br>👯 I’m looking to collaborate on :  Open-source projects in full-stack development, machine learning, or anything innovative and fun!<br>🤝 I’m looking for help with : Improving ML model performance and learning better practices for scalable backend development.<br>🌱 I’m currently learning : The MERN stack, Django REST framework, model optimization techniques, and cloud deployment.<br>💬 Ask me about : Getting started with React & Django, beginner-friendly ML workflows, or anything around project-based learning.<br>⚡ Fun fact : I love building things from scratch — whether it's a fun app idea or a weekend data experiment!<br><br>
+🔭 I’m currently working on :  Projects focused on LLM-based solutions, data visualization, and real-world ML and GenAI workflows.<br>👯 I’m looking to collaborate on :  Open-source projects in AI/ML, GenAI, or full-stack apps with a meaningful impact or anything innovative and fun!<br>🤝 I’m looking for help with : Improving ML model performance and learning better practices for scalable backend development.<br>🌱 I’m currently learning : Django REST, model optimization, LangChain, cloud deployment (GCP/AWS), and LLM integrations.<br>💬 Ask me about : Getting started with React & Django, beginner-friendly ML workflows, or anything around project-based learning.<br>⚡ Fun fact : I love building from scratch — whether it's an intelligent chatbot, a weekend data science sprint, or a small app that makes life easier!<br><br>
 
 
 # 💻 Tech Stack
